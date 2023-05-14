@@ -5,9 +5,7 @@ University assignment 3 for Operating System  course in Ariel University.
 
 #### __For more information, you can see in the PDF in the docs directory__.
 
-## EXPLANATION OF THE PROGRAM
-
-### the program divided to : 
+## EXPLANATION OF THE PROGRAM 
 - for run pipe and mmap need file name - ./stnc -c 127.0.0.1 port -p mmap/pipe -f file_name
 - makefile - the file that compile the program.
 - somtimes need sleep 1 sec to see the result, and need change it in the code.
